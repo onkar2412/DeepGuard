@@ -25,4 +25,4 @@ OpenCV
 NumPy
 Pandas (for data handling)
 Matplotlib & Seaborn (for visualizations)
-Tools: Jupyter Notebook, Visual Studio Code
+Tools:  Visual Studio Code
